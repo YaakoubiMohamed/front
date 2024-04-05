@@ -1,0 +1,17 @@
+/* Article.css */
+.article {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: #f8f9fa;
+  }
+  
+  .article h2 {
+    margin-top: 0;
+  }
+  
+  .article img {
+    max-width: 100%;
+  }
+  
